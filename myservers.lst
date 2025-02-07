@@ -234,7 +234,17 @@ files.oaiusercontent.com
 platform.openai.com  
 tcr9i.chat.openai.com  
 webrtc.chatgpt.com  
-# Google  
+# Google 
+ai.google.dev
+alkalimakersuite-pa.clients6.google.com
+makersuite.google.com
+bard.google.com
+deepmind.com
+deepmind.google
+gemini.google.com
+generativeai.google
+proactivebackend-pa.googleapis.com
+apis.google.com
 aistudio.google.com  
 aitestkitchen.withgoogle.com  
 alkalimakersuite-pa.clients6.google.com  
